@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hein Htet Soe.
-- 👀 I’m interested in Web design and Web development.
-- 🌱 I’m currently learning Web development.
+- 👀 I’m interested in Web development, Web3 and blockchain.
+- 🌱 I’m currently working as a software engineer.
 - 💞️ I’m looking to collaborate on Web development.
 - 📫 How to reach me soe991398@gmail.com .
 
